@@ -1,10 +1,12 @@
 # SoftHSM v2 + Golang
 
 SoftHSM v2: <https://github.com/opendnssec/SoftHSMv2>
+
 PKCS11 Proxy + TLS: <https://github.com/SUNET/pkcs11-proxy>
 
-PKCS11 Golang lib: github.com/miekg/pkcs11
-crypto/signer PKCS11-based Golang lib: github.com/ThalesIgnite/crypto11
+PKCS11 Golang lib: `github.com/miekg/pkcs11`
+
+crypto/signer PKCS11-based Golang lib: `github.com/ThalesIgnite/crypto11`
 
 ## PoC setup
 
